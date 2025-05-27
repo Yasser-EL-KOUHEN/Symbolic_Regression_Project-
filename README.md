@@ -10,7 +10,7 @@ This work:
 * Explores **L₀ regularization** to promote sparsity (following Louizos et al., 2017)
 * Serves as a **prerequisite to future NOMTO-style developments**, focusing purely on symbolic expression recovery (not Neural Operators)
 
-> 🧩 This project **does not implement NOMTO**, but includes a comparative study and roadmap in the attached theory documents.
+>  This project **does not implement NOMTO**, but includes a comparative study and roadmap in the attached theory documents.
 
 ---
 
@@ -70,7 +70,7 @@ To aid understanding, a complete [**mind map**](./EQL%20Model%20Mind%20Map.png) 
 
 ---
 
-## 🧬 Inspirations and Comparisons
+## Inspirations and Comparisons
 
 | Concept                   | Implemented? | Source                                                   |
 | ------------------------- | ------------ | -------------------------------------------------------- |
@@ -80,7 +80,7 @@ To aid understanding, a complete [**mind map**](./EQL%20Model%20Mind%20Map.png) 
 
 ---
 
-## 📎 Requirements
+## Requirements
 
 * Python 3.8+
 * PyTorch
@@ -93,7 +93,7 @@ Optional: Run in Google Colab for easy GPU access.
 
 ---
 
-## 🚧 Limitations
+## Limitations
 
 * ❌ No PDE rediscovery
 * ❌ No function-to-function learning (Neural Operators)
@@ -102,7 +102,7 @@ Optional: Run in Google Colab for easy GPU access.
 
 ---
 
-## 🧪 Next Steps
+## Next Steps
 
 Planned upgrades:
 
@@ -113,7 +113,7 @@ Planned upgrades:
 
 ---
 
-## 📚 References
+## References
 
 * Samuel Kim et al., [*Equation Learner for Symbolic Regression*](https://arxiv.org/abs/1912.04825)
 * Christos Louizos et al., [*L₀ Regularization*](https://arxiv.org/abs/1712.01312)
@@ -121,7 +121,7 @@ Planned upgrades:
 
 ---
 
-## 👤 Author
+## Author
 
 **Yasser El Kouhen**
 AI Research Intern @ EPFL IMOS Lab
