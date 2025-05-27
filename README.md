@@ -124,7 +124,7 @@ Planned upgrades:
 ## Author
 
 **Yasser El Kouhen**
-AI Research Intern @ EPFL IMOS Lab
-GitHub: [@Yasser-EL-KOUHEN](https://github.com/Yasser-EL-KOUHEN)
-Contact: [yasserelkouhen5@gmail.com](mailto:yasserelkouhen5@gmail.com)
+* AI Research Intern @ EPFL IMOS Lab
+* GitHub: [@Yasser-EL-KOUHEN](https://github.com/Yasser-EL-KOUHEN)
+* Contact: [yasserelkouhen5@gmail.com](mailto:yasserelkouhen5@gmail.com)
 
